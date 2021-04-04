@@ -22,7 +22,7 @@ title: Adam Sellers
 email: a.j.f.sellers@hotmail.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Aspiring Game Developer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
